@@ -10,4 +10,4 @@ Para executar o projeto com o arquivo .scss é necessário possuir um compilador
 
 # Referências
 - Kevin Powell. **3D CSS - lighting, animations, and more!**. Disponível em: https://www.youtube.com/watch?v=NdftnCDwKaU
-- Admit Sheen. Codepen. https://codepen.io/amit_sheen
+- Admit Sheen. **Codepen**. Disponível em: https://codepen.io/amit_sheen
